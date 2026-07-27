@@ -9,7 +9,7 @@ My work often sits at the intersection of technology, policy, operations, and th
 ## Live Website
 
 [View the portfolio website]
-(website_link)
+([website_link](https://ana-salazar.github.io/))
 
 ## About the Portfolio
 
